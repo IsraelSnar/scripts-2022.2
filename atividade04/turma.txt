@@ -1,0 +1,9 @@
+NOME TURMA NOTA1 NOTA2 NOTA3
+João   INF    7     8     9
+Maria  INF    5     7     7
+Carlos LOG    6     4     6
+Ana    INF    3     9     7
+Helena RED    3     4     7
+Luisa  RED    9     8    10
+Maite  RED   10     9     8
+Chico  LOG    5     3     8
